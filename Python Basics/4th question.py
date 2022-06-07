@@ -1,3 +1,7 @@
+"""
+    Write a Python Script to find a prime number or not, even or odd, divisible by 5 or not, and also find the sum of first n natural numbers till n.
+"""
+
 def Prime(n):
     flag = True
     for i in range(2,n//2):
